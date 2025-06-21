@@ -71,7 +71,7 @@ A gallery of the core insights derived from the data analysis, showcasing perfor
 
 ## 📂 Project Structure
 
-
+```
 Superstore-Analytics/
 │
 ├── data/
@@ -88,7 +88,7 @@ Superstore-Analytics/
 ├── simulator.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
