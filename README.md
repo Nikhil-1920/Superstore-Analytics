@@ -99,7 +99,7 @@ To run this project on your local machine, follow these steps:
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/Nikhil-1920/Superstore-Analytics.git](https://github.com/Nikhil-1920/Superstore-Analytics.git)
-    cd superstore-analytics-dashboard
+    cd Superstore-Analytics
     ```
 
 2.  **Set Up a Virtual Environment:**
